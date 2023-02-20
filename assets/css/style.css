@@ -30,7 +30,7 @@ body {
 }
 
 /* Styles for the div element inside the header section */
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -39,12 +39,12 @@ body {
 }
 
 /* Styles for the ul element inside the div element */
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /* Styles for the li elements inside the ul element */
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
