@@ -13,7 +13,7 @@ Horiseon is a marketing agency that specializes in Search Engine Optimization (S
 
 ## Installation
 
-No installation is required. Simply open the `index.html` file in your preferred web browser.
+No installation is required. Simply open the `index.html` file in your preferred web browser. Alternatively, you can visit the website at https://christopherflores9312.github.io/horiseon-code-refactoring/
 
 ## Usage
 
