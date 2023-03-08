@@ -2,6 +2,8 @@
 
 Horiseon is a marketing agency that specializes in Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing. This project is a website for Horiseon that highlights their services and benefits.
 
+<img src="assets/images/code-refactoring.png" width="400">
+
 ## Table of Contents
 
 - [Installation](#installation)
